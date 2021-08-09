@@ -1,6 +1,8 @@
 name: binder_env
 channels:
+  - conda-forge
   - defaults
+  - conda-forge/label/broken
 dependencies:
   - matplotlib
   - numpy

@@ -4,4 +4,4 @@ channels:
 dependencies:
   - matplotlib
   - numpy
-prefix: C:\Users\andre\anaconda3\envs\binder_env
+

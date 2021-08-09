@@ -4,6 +4,6 @@ channels:
   - defaults
   - conda-forge/label/broken
 dependencies:
-  - matplotlib
-  - numpy
+  - matplotlib=3.3.4
+  - numpy=1.20.2
 
